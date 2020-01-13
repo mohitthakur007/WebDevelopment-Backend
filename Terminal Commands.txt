@@ -1,0 +1,9 @@
+Necessary Terminal Commands:
+1. Installing nodemon for auto restart of the server
+npm install -g nodemon 
+2. For package.json file
+npm init
+3. running a file using nodemon
+nodemon FileName.js
+4. Running a file using Node
+node Filename.js
