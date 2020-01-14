@@ -7,3 +7,6 @@ npm init
 nodemon FileName.js
 4. Running a file using Node
 node Filename.js
+5. Installing express
+npm install express
+6. 
