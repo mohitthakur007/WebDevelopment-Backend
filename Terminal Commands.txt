@@ -9,4 +9,5 @@ nodemon FileName.js
 node Filename.js
 5. Installing express
 npm install express
-6. 
+6. Installing EJS
+mpm install EJS
