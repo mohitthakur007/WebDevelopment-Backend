@@ -1,4 +1,5 @@
-//This will show loading in the browser but server will start running because request is not handled.
+//This will show loading in the browser but server will be created. 
+//This is because "requests" are not handled.
 
 const http= require('http');
 const port=8000;
